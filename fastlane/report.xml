@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="00: git_pull" time="16.943177">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="01: ensure_git_branch" time="0.033908">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="02: version_bump_podspec" time="0.001891">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="03: git_add" time="0.032098">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="04: git_commit" time="0.049006">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="05: push_to_git_remote" time="6.360162">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="06: git_tag_exists" time="0.037773">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="07: remove_git_tag" time="4.810848">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="08: add_git_tag" time="0.054279">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="09: push_git_tags" time="4.468946">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="10: pod_lib_lint" time="247.479516">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="11: cd /Users/dev/Documents/rc_work/work_codes/gerrit_codes/patch/rongcloud-scene-community-ios &amp;&amp; pod lib lint RCSceneCommunity.podspec --no-clean --allow-warnings --sources=&apos;https://github.com/CocoaPods/Specs&apos;" time="248.995549">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="12: pod_push" time="257.310973">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>
